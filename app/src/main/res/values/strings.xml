@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DaggerPractice</string>
+    <string name="logout">logout</string>
+    <string name="fragment_profile">Profile</string>
+    <string name="fragment_todo">Todos</string>
+    <string name="fragment_posts">Posts</string>
+    <string name="fragment_photos">Photos</string>
+    <string name="fragment_comment">Comments</string>
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_done">Done</string>
+    <string name="menu_nondone">NonDone</string>
+
+    <string-array name="list_tasks_array">
+        <item>@string/nav_all</item>
+        <item>@string/nav_active</item>
+        <item>@string/nav_completed</item>
+    </string-array>
+    <string name="nav_all">All</string>
+    <string name="nav_active">Active</string>
+    <string name="nav_completed">Completed</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profileScreen"
+            android:title="@string/fragment_profile" />
+        <item
+            android:id="@+id/todoScreen"
+            android:title="@string/fragment_todo" />
+        <item
+            android:id="@+id/postsScreen"
+            android:title="@string/fragment_posts" />
+
+        <item
+            android:id="@+id/photosScreen"
+            android:title="@string/fragment_photos" />
+
+    </group>
+</menu>
